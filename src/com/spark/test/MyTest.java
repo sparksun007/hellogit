@@ -9,6 +9,7 @@ public class MyTest {
 		int b = 4;
 		System.out.println("a/b=" + a/b);
 		System.out.println("a%b=" + a%b);
+		System.out.println("本地修改，Git能否同步？");
 	}
 	@Test
 	public void test() {
